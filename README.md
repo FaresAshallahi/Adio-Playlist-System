@@ -7,6 +7,9 @@ Java Application:
 Object-Oriented Analysis, Design (OOA&D) : 
 Using UML in designs , GUI Design and Implementation 
 
+![project code](https://user-images.githubusercontent.com/45584320/235327071-d9182754-3c01-41ca-8c78-736f047a14dd.png)
+
+
 criteria work:  
 1)  UML design diagrams and associated documentation for the whole Album management system.  
 2)  GUI Design and Implementation:
