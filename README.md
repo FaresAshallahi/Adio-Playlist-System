@@ -7,6 +7,8 @@ Java Application:
 Object-Oriented Analysis, Design (OOA&D) : 
 Using UML in designs , GUI Design and Implementation 
 
+
+
 ![project code](https://user-images.githubusercontent.com/45584320/235327071-d9182754-3c01-41ca-8c78-736f047a14dd.png)
 
 
@@ -54,3 +56,10 @@ For Playing Music in MP3 format: 
 (6) Providing an interface: 
 (a) to play available audio clips/tracks individually, chosen from an album or from a playlist. 
 (b) To stop the play. 
+
+
+![java 2](https://user-images.githubusercontent.com/45584320/235327108-89add1a1-6a19-484a-a096-2a9b915d0812.png)
+
+
+![java 1](https://user-images.githubusercontent.com/45584320/235327104-5275b973-ff78-4527-8ae1-0d6f05e5ed0e.png)
+
