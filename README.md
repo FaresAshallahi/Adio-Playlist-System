@@ -36,26 +36,26 @@ GUI layout, choice of AWT/SWING components, GUI test.
  a technical report is available upon request.
 
 * develop a system 
-built, based on the programs (classes).
- a graphical user interface (GUI) to provide the following functions or interactions for users: 
-For Albums: 
-(1) To provide a graphical dialog interface for users to open and load a collection(list) of albums (one or many albums) in a text file provided by other systems into your system, and either to merge with an existing list (if available) or to become a new list.
-(2) To choose an album from a list of albums and display the information of the chosen album with the details including 
-(a) the title of the Album
-(b) the name of the Artist
-(c) the cover image if available
-(d) the list of the tracks (title and duration) 
-(e) the total duration of the album
+built, based on the programs (classes). <br>
+ a graphical user interface (GUI) to provide the following functions or interactions for users:  <br>
+For Albums:  <br>
+(1) To provide a graphical dialog interface for users to open and load a collection(list) of albums (one or many albums) in a text file provided by other systems into your system, and either to merge with an existing list (if available) or to become a new list. <br>
+(2) To choose an album from a list of albums and display the information of the chosen album with the details including  <br>
+(a) the title of the Album  <br>
+(b) the name of the Artist  <br>
+(c) the cover image if available  <br>
+(d) the list of the tracks (title and duration)   <br>
+(e) the total duration of the album  <br>
 
-For Playlist: 
-(3)  Loading a playlist from a text file, provided by other systems, into your system;  
-(4)  Displaying a playlist with the information such as the name of the playlist, all the tracks in this playlist, their album, artist  and duration, and the total duration of the playlist.  
-(5)  Being able to make a new playlist by selecting tracks from the available tracks in your album collections and/or existing  playlists, and then save the new playlist with a new name into a chosen folder. 
+For Playlist:  <br>
+(3)  Loading a playlist from a text file, provided by other systems, into your system;    <br>
+(4)  Displaying a playlist with the information such as the name of the playlist, all the tracks in this playlist, their album, artist  and duration, and the total duration of the playlist.    <br>
+(5)  Being able to make a new playlist by selecting tracks from the available tracks in your album collections and/or existing  playlists, and then save the new playlist with a new name into a chosen folder.  <br>
 
-For Playing Music in MP3 format: 
-(6) Providing an interface: 
-(a) to play available audio clips/tracks individually, chosen from an album or from a playlist. 
-(b) To stop the play. 
+For Playing Music in MP3 format:   <br>
+(6) Providing an interface:  <br>
+(a) to play available audio clips/tracks individually, chosen from an album or from a playlist.  <br>
+(b) To stop the play.  <br>
 
 
 ![java 2](https://user-images.githubusercontent.com/45584320/235327108-89add1a1-6a19-484a-a096-2a9b915d0812.png)
