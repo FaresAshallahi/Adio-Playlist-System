@@ -54,8 +54,8 @@ For Playlist:  <br>
 
 For Playing Music in MP3 format:   <br>
 (6) Providing an interface:  <br>
-(a) to play available audio clips/tracks individually, chosen from an album or from a playlist.  <br>
-(b) To stop the play.  <br>
+   (a) to play available audio clips/tracks individually, chosen from an album or from a playlist.  <br>
+   (b) To stop the play.  <br>
 
 
 ![java 2](https://user-images.githubusercontent.com/45584320/235327108-89add1a1-6a19-484a-a096-2a9b915d0812.png)
