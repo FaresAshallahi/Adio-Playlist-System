@@ -21,11 +21,11 @@ GUI layout, choice of AWT/SWING components, GUI test.
 5)  Evaluation and Discussion
 6)  Documentation
 
- the functions of the system as follows 
-(1) loading an album collection file into the system.
-(2) displaying the information of a chosen album, such as the title of Album artist name, cover image (if available), the list of the tracks, and total duration, etc. 
-(3) loading and displaying a playlist.
-(4) providing an interface to allow user to make a new playlist and then save the new playlist with a new name in a chosen folder.
+ the functions of the system as following: <br> 
+(1) loading an album collection file into the system. <br>
+(2) displaying the information of a chosen album, such as the title of Album artist name, cover image (if available), the list of the tracks, and total duration, etc. <br> 
+(3) loading and displaying a playlist. <br>
+(4) providing an interface to allow user to make a new playlist and then save the new playlist with a new name in a chosen folder. <br>
 (5) being able to play/stop some music (mp3 file) chosen form the available tracks of an album or a playlist. 
 
 	•	Testing: 
