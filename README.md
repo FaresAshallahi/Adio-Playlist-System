@@ -35,7 +35,7 @@ GUI layout, choice of AWT/SWING components, GUI test.
 	•	Report:
  a technical report is available upon request.
 
-* develop a system 
+develop a system  <br>
 built, based on the programs (classes). <br>
  a graphical user interface (GUI) to provide the following functions or interactions for users:  <br>
 For Albums:  <br>
